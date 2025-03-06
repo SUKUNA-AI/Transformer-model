@@ -1,4 +1,4 @@
-# Transformer Model для перевода текста
+# Transformer Model for text translation
 
 This repository contains an implementation of the Transformer model for the task of machine translation from English to Russian. The model is based on the architecture described in [“Attention is All You Need”](https://arxiv.org/abs/1706.03762) and implemented using PyTorch. The code includes training, testing and calculation of the BLEU metric for evaluating translation quality.
 
