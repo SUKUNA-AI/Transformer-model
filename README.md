@@ -18,7 +18,7 @@ This repository contains an implementation of the Transformer model for the task
    ```
 2. Recommended libraries : `PyTorch`, `datasets`, `tokenizers`, `sacrebleu`, `tqdm`.
    
-## Usage.
+## Usage
 
 1. model training:
    Run the training script (see `[Test_transformer_model.ipynb]`) with the parameters specified in `get_config()`:
