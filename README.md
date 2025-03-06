@@ -16,11 +16,7 @@ This repository contains an implementation of the Transformer model for the task
    git clone https://github.com/SUKUNA-AI/Transformer-model.git
    cd Transformer-model
    ```
-2. Establish dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Requirements include: `torch`, `datasets`, `tokenizers`, `sacrebleu`, `tqdm`.
+2.Recommended libraries : `torch`, `datasets`, `tokenizers`, `sacrebleu`, `tqdm`.
    
 ## Usage.
 
